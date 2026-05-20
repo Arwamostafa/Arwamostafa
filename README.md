@@ -1,9 +1,8 @@
-<h2 align="left">
-  Junior Full-Stack Developer (.NET + Angular) with hands-on experience building scalable, secure, and production-ready web applications.
+# 💫 About Me:
+Junior Full-Stack Developer (.NET + Angular) with hands-on experience building scalable, secure, and production-ready web applications.
 Skilled in clean architecture principles, real-time features, caching, secure authentication flows, and payment integrations.<br>
 Also experienced in cross-platform mobile development. <br>
 Passionate about clean code, collaborative delivery, and contributing to impactful applications.<br>
-</h2>
 
 ###
 
